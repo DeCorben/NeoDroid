@@ -7,4 +7,14 @@
     <string name="clearT">Clear Target</string>
     <string name="clearL">Clear Left</string>
     <string name="clearR">Clear Right</string>
+	<string-array name="links">
+		<item>None</item>
+		<item>DESCRIBES</item>
+		<item>TAGS</item>
+		<item>SUPPORTS</item>
+		<item>DOUBTS</item>
+		<item>DISPROVES</item>
+		<item>FOLLOWS</item>
+		<item>HAS_PRIORITY_OVER</item>
+	</string-array>
 </resources>
