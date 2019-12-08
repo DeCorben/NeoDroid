@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Testbed</string>
+    <string name="source">Source</string>
+    <string name="target">Target</string>
+    <string name="swap">Swap</string>
+    <string name="clearS">Clear Source</string>
+    <string name="clearT">Clear Target</string>
+    <string name="clearL">Clear Left</string>
+    <string name="clearR">Clear Right</string>
+</resources>
